@@ -37,11 +37,11 @@ Improve Walmart’s segmentation process by classifying the customer trip types 
 - - Dimensions of resulting data: 15195 x 71.
 
 # Result after feature engineering
-Random Forest - Training accuracy - 98%, Testing accuracy - 88%.
-KNN (k=5) - Training accuracy - 89% , Testing accuracy - 86% 
-Linear Discriminant Analysis - Training Accuracy - 86% , Testing accuracy - 86% 
-Support Vector Machine - Training accuracy - 90%, Testing accuracy - 89%
-Logistic Regression - Training accuracy - 91%, Testing accuracy - 90%
+- Random Forest - Training accuracy - 98%, Testing accuracy - 88%.
+- KNN (k=5) - Training accuracy - 89% , Testing accuracy - 86% 
+- Linear Discriminant Analysis - Training Accuracy - 86% , Testing accuracy - 86% 
+- Support Vector Machine - Training accuracy - 90%, Testing accuracy - 89%
+- Logistic Regression - Training accuracy - 91%, Testing accuracy - 90%
 
 # Fine tuning
 - 71 features can be reduced and sparsity can be handled using fine tuning.
