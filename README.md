@@ -1,6 +1,6 @@
-# Walmart-Trip-Type-Classification
+# Walmart-Trip-Type-Classification - Kaggle Competition
 
-[![N|Solid](https://kaggle2.blob.core.windows.net/competitions/kaggle/4654/media/walmart_triptypes640.png)]
+(https://kaggle2.blob.core.windows.net/competitions/kaggle/4654/media/walmart_triptypes640.png)]
 
 Improve Walmart’s segmentation process by classifying the customer trip types based on the product purchased in that visit, so that it creates the best shopping experience for every customer.
 
